@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html dir="rtl"/>
+<head>
+<meta charset="utf-8" />
+<title>animal's world</title>
+<style>
+
+
+.slat {background:slategrey;}
+
+</style>
+</head>
+<body>
+
+
+<h1 style="border:5px solid black;padding:10px;background-color: slategrey;border-radius: 5px;
+">الحيوانات البرية</h1> 
+
+<p style="border:5px solid black;padding:10px;background-color: slategrey;border-radius: 5px;">الحيوانات البريّة
+مُسمّى يُطلَق على الحيوانات التي تعيش
+على اليابسة،
+كما تُسمّى حيوانات 
+بريّة لأنّها لا تستطيع العيش مع البشر أو التّأقلم في بيئتهم،
+ولا أن تتواجد في أماكن قريبة من مُحيطهم، 
+وتُفضّل العيش في الغابات التي تُعتَبر مواطنها الأصليّ. يُؤكّد عُلماء الحيوان 
+والباحثون أنّ الحيوانات تُشكّل أشبه ما يكون بالمُدن الهائلة والشّعوب مُتعدّدة الألوان 
+والأنواع والأصوات التي لا حصر لها، ويعجز العقل عن تصوّر أعدادها 
+الهائلة والضّخمة، وأنسب وصف لهذه الكائنات ذوات الأعداد الهائلة هو عالم الحيوان</p>
+
+
+
+<hr />
+
+<h2 style="border:5px solid black;width:15%;padding: 5px;border-radius: 5px;background-color: slategrey;">أشهر الحيوانات البريّة</h2>
+
+<table border="1" width="60%">
+<tr>
+<td>الاسد</td>
+<td>الزرافة</td>
+<td>النمر</td>
+<td>الفهد</td>
+<td>الدب</td>
+<td>الثعلب</td>
+<td>الفيل</td>
+<td>الغزال</td>
+</tr>
+</table> 
+
+<hr /> 
+
+
+<h3 class="slat" >الاسد:</h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/250px
+-Lion_waiting_in_Namibia.jpg" alt="lion" style="border:5px solid black ;" />
+
+<p style="border: 5px solid black;">هو ملك الغابة، آكل للّحوم ويُصنّف من العائلة السَنوريّة، ويسمّى بأسماء عديدة؛ كاللّيث، والضّرغام، والهِزَبْر، والسّبع، تُسمّى أُنثاه اللّبؤة، وصغيره الشّبل، وبيته العرين، وصوته الزّئير</p>
+
+
+<h3 class="slat">الزرافة:</h3>
+
+
+<img src="https://arabicpost.net/wp-content/uploads/2020/08/27299.jpeg"  height="150px" style="border:5px solid black ; alt="giraffe" />
+
+<p class="blk" style="border: 5px solid black;">وهو حيوانٌ طويل له أرجل ورقبة ذات طول مُرتفع جدّاً، وعيون كبيرة ورُموش طويلة، وهو بذلك الحيوان الأكثر
+ارتفاعاً في العالم. حيوان نباتيّ يتغذّى على الأشجار العالية. تنام الزّرافة وهي واقفة ولمُدّة قصيرة لا تتعدّى الدّقائق</p>
+
+
+<h3 class="slat" >النمر:</h3>
+
+
+<img src="https://images.skynewsarabia.com/images/v1/2020/06/08/1350785/800/450/1-1350785.jpg" height="150px" style="border:5px solid black ; alt="Tiger" />
+
+<p style="border: 5px solid black;">يُصنّف من عائلة السَنوريّات أيضاً، ويعيش في شمال أفريقيا، وهو جميل المظهر وقويّ، يتميّز بفروه المُخطّط والمُنقّط، ويتميّز بحاسَّتَي شمّ وسمع قويّتين جدّاً، وسُرعة هائلة.</p>
+
+
+
+<h3 class="slat" >الفهد:</h3>
+
+
+<img src="https://www.animals-wd.com/wp-content/uploads/2018/09/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%B9%D9%86-%D8%AD%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%87%D8%AF.jpg" height="150" style="border:5px solid black ; alt="Cheetah" />
+
+<p style="border: 5px solid black;">الفهد هو حيوان من القطط الكبيرة ينتمي إلى فصيلة السنوريّات، ويُعتَبر أحد أشهر أنواعها في العالم، يشتهر هذا الكائن بسرعته الشّديدة في الجري، حيث يُعدّ أسرع الثدييات التي تعيشُ على اليابسة في العالم أجمع، إذ يُمكن أن تصل سرعته في أقصاها إلى ما يُقارب 87 كيلومتراً في السّاعة</p>
+
+
+
+<h3 class="slat" >الدب:</h3>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/1200px-2010-kodiak-bear-1.jpg" height="150px" style="border:5px solid black ; alt="bear" />
+
+<p style="border: 5px solid black;">هو حيوان ضخم جداً وله فرو خشن وسميك، يتغذّى الدّب على الحيوانات الأُخرى والنّباتات، وهو ضعيف البصر لكن لديه حاسّة شمّ قويّة جدّاً</p>
+
+
+
+<h3 class="slat" >الثعلب:</h3>
+
+
+<img src="https://res.cloudinary.com/dm1huj94l/image/upload/v1605427066/articles-2020-10/zhwp4iuiethy7wlzgya5.jpg" height="150px" style="border:5px solid black ; alt="bear" />
+
+<p style="border: 5px solid black;">هو الحيوان الماكر والمعروف بالمُرواغة والذّكاء الشّديد. يمتلك حاسّة شمّ قويّة جدّاً ورؤية ثاقبة، وهو سريع كذلك، يتغذّى على الحشرات، والأرانب، والقوارض، والطّيور</p>
+
+
+<h3 class="slat" >الفيل</h3>
+
+
+<img src="https://www.aljazeera.net/wp-content/uploads/2018/10/a4eb6dac-a71f-4589-a663-735259d71cf3.jpeg?resize=770%2C513" height="150px" style="border:5px solid black ; alt="bear" />
+
+<p style="border: 5px solid black;">يُعتبر الفيل من الثّدييات، وهو من أضخم الحيوانات البريّة التي تعيش في الغابة. يتميّز برأسه الكبير وذيله الصّغير، ونابيه العاجيّين، وخرطومه الطّويل. ينتشر في أفريقيا والهند، وأعداده في تناقصٍ مُستمرّ</p>
+
+
+<h3 class="slat">الغزال</h3>
+
+
+<img src="https://cdn.alweb.com/thumbs/barrobahr/article/fit710x532/%D8%AA%D8%B9%D8%B1%D9%81-%D8%A3%D9%83%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84-%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%82%D8%A7%D8%A6%D9%82.jpg" height="150px" style="border:5px solid black ; alt="bear" />
+
+<p style="border: 5px solid black;">هو نوع من أنواع الظّباء، ومن أقدم الحيوانات البريّة التي عرفها الإنسان واستأنسها. يُعتبر هدف مُميّز للحيوانات المُفترسة والإنسان، لذلك يبقى حَذِر دائماً، ويستطيع الإحساس بالخطر على بعد 300 متر، ويعتمد على سرعته العالية للفرار</P>
+
+
+
+
+
+</body>
+</html>
